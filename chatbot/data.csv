@@ -1,0 +1,13 @@
+input,responses
+
+hello,hey how is going on
+okay,anything else you would like to talk
+what is your name,my name is {ai_name} what about you 
+bye,nice to meet you {user} see you again
+who is prime minister of india,The indian prime minister name is shri narendra modi
+CM of maharashtra,CM of maharashtra is devendra fadanvis
+who is elon musk, elon is an american entreprenuer 
+Is Ai danger for humans,No we are build to help humans
+
+are you a good ai or bad ai?,i am a good ai
+nothing,okay

@@ -1,0 +1,50 @@
+-----------------------------------------------------
+what i learnt till now from library project 28-06-2025
+-----------------------------------------------------
+learning No.1
+we can use  key to acces its value which i knew but i had forgot 
+example - self.borrowed_books[user_name]== book_name
+Here user_name is a key and book_name , i checked if the user_name which is
+entered by user it is matching with its value
+
+-----------------------------------------------------
+What i learnt today 29-06-2025
+-----------------------------------------------------
+learning No.2
+i learnt about the while loop condition how we can use variable in while 
+loop condition ..
+what we did 
+running==True
+while running:
+so the condition is always true and we can exit loop at any if else statement block 
+just doing running==False
+******************************************************
+
+
+project chatbot 15-07-2025
+------------------------------------------------------
+learning No.1
+we can use .lower() function right after the input function
+like input("enter your name").lower()
+
+learning No.2
+ i got to know about pyttsx library which converst the text into voice
+ we can set properties
+
+ Code#
+ engine = pyttsx3.init()
+ engine.setproperties()
+ engine.say()
+ engine.runandwait
+
+ learning No.3
+ python module 
+ import sys
+ sys.exit()
+ it exit the program if occurs  an error terminate the whole program
+
+ learning No.4
+
+The .get() method in Python is primarily used with dictionaries. 
+It provides a safer and more flexible way to access the value associated with a given key, 
+compared to direct key access (e.g., dictionary[key])
